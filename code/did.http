@@ -1,0 +1,11 @@
+### POST Request with JSON body
+
+POST https://api.d-id.com/animations
+Content-Type: application/json
+Authorization: Basic YmxhY2tob3J1c0AxNjMuY29t:I69tsdQMN9eO5iL1m2kMX
+
+{
+    "script": {
+
+    }
+}
